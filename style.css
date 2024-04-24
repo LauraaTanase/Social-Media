@@ -52,9 +52,11 @@ height:200px;
 
 /*Right side*/
 .aside-right  {
-    position:fixed; 
+    position:fixed;
+    display: inline-block;
     width:250px;
     right:0px;
+  
     
     
 }
@@ -70,3 +72,4 @@ height:200px;
     cursor:pointer;
  
 }
+
