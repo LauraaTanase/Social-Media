@@ -52,7 +52,7 @@ height:200px;
 
 /*Right side*/
 .aside-right  {
-    position:fixed;
+    position:absolute;;
     display: inline-block;
     width:250px;
     right:0px;
